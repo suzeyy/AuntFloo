@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "489825321370",
+    "project_id": "aunt-flo-3",
+    "storage_bucket": "aunt-flo-3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489825321370:android:1c1d491b5d4532cf9cba23",
+        "android_client_info": {
+          "package_name": "com.example.aunt_flo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDv_-vZGFMkNLSCX0nrV5-KUGunn_PwZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
